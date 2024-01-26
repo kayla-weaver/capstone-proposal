@@ -8,6 +8,7 @@ List the absolute minimum features the project requires to meet this purpose or 
 1. provide resource links and contact information
 2. build database and CRUD service
 3. take payments for donations
+4. list/be able to add local volunteer opportunities (maybe calendar?) 
 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 1. C# for API/database connection
